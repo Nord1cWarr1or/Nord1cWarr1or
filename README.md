@@ -43,6 +43,16 @@
 - <img src="assets/analytics-01.svg" height="18" alt="" /> I capture my own HTTPS traffic with mitmproxy and take the flows apart in SQLite.
 - <img src="assets/brain-circuit.svg" height="18" alt="" /> Somewhere in between I run a self-hosted LLM proxy; one of my upstream issues made the maintainer's roadmap.
 
+## 🗂️ Top projects
+
+| Project | Stars | Forks |
+| --- | :---: | :---: |
+| [**cs-1.6-server-installation-on-vds-using-lgsm**](https://github.com/Nord1cWarr1or/cs-1.6-server-installation-on-vds-using-lgsm) — full guide: CS 1.6 dedicated server on a VDS (Debian + LinuxGSM) | ![](https://img.shields.io/github/stars/Nord1cWarr1or/cs-1.6-server-installation-on-vds-using-lgsm?style=flat-square&labelColor=1A1B26&color=24283B) | ![](https://img.shields.io/github/forks/Nord1cWarr1or/cs-1.6-server-installation-on-vds-using-lgsm?style=flat-square&labelColor=1A1B26&color=24283B) |
+| [**AWP-Limiter**](https://github.com/Nord1cWarr1or/AWP-Limiter) — AWP limiter plugin for CS 1.6 (AMX Mod X, Pawn) | ![](https://img.shields.io/github/stars/Nord1cWarr1or/AWP-Limiter?style=flat-square&labelColor=1A1B26&color=24283B) | ![](https://img.shields.io/github/forks/Nord1cWarr1or/AWP-Limiter?style=flat-square&labelColor=1A1B26&color=24283B) |
+| [**player-preferences**](https://github.com/Nord1cWarr1or/player-preferences) — manage and store player preferences: hats, music and other settings | ![](https://img.shields.io/github/stars/Nord1cWarr1or/player-preferences?style=flat-square&labelColor=1A1B26&color=24283B) | ![](https://img.shields.io/github/forks/Nord1cWarr1or/player-preferences?style=flat-square&labelColor=1A1B26&color=24283B) |
+| [**NextClientServerApi**](https://github.com/Nord1cWarr1or/NextClientServerApi) — AMX Mod X plugin providing an API to interact with CS 1.6 NextClient (C++) | ![](https://img.shields.io/github/stars/Nord1cWarr1or/NextClientServerApi?style=flat-square&labelColor=1A1B26&color=24283B) | ![](https://img.shields.io/github/forks/Nord1cWarr1or/NextClientServerApi?style=flat-square&labelColor=1A1B26&color=24283B) |
+| [**ChatAdditions_Gaglist**](https://github.com/Nord1cWarr1or/ChatAdditions_Gaglist) — web panel for ChatAdditions_AMXX, a list of gags (PHP) | ![](https://img.shields.io/github/stars/Nord1cWarr1or/ChatAdditions_Gaglist?style=flat-square&labelColor=1A1B26&color=24283B) | ![](https://img.shields.io/github/forks/Nord1cWarr1or/ChatAdditions_Gaglist?style=flat-square&labelColor=1A1B26&color=24283B) |
+
 ## 📊 GitHub stats
 
 <div align="center">
@@ -54,6 +64,17 @@
 <img height="165" src="https://nord-streak-stats.vercel.app/?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
+
+## ⚡ Recent activity
+
+<details>
+<summary><b>Latest pulls, issues and merges</b> — updated daily</summary>
+<br />
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 ## 🐍 Commit snake
 

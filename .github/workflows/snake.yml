@@ -16,13 +16,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake (dark theme: matrix)
+        uses: dahan8473/snake-and-commits@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user: ${{ github.repository_owner }}
+          output: dist/github-contribution-grid-snake-dark.svg
+          theme: matrix
+
+      - name: Generate snake (light theme: green)
+        uses: dahan8473/snake-and-commits@v1
+        with:
+          github_user: ${{ github.repository_owner }}
+          output: dist/github-contribution-grid-snake.svg
+          theme: green
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
