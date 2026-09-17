@@ -36,30 +36,12 @@
 
 </div>
 
-<div align="center">
-
-<kbd>&nbsp;<img src="assets/gamepad-01.svg" width="24" alt="" />&nbsp;<b>Pawn</b>&nbsp;·&nbsp;AMX Mod X&nbsp;·&nbsp;ReAPI&nbsp;</kbd>
-<kbd>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="22" alt="" />&nbsp;<b>C++</b>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="22" alt="" />&nbsp;<b>PHP</b>&nbsp;</kbd>
-<kbd>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="22" alt="" />&nbsp;<b>Bash</b>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="22" alt="" />&nbsp;<b>Git</b>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="22" alt="" />&nbsp;<b>Arch</b>&nbsp;</kbd>
-
-</div>
-
 ## 🎲 Facts about me
 
 - <img src="assets/bubble-chat.svg" height="18" alt="" /> I maintain the ChatAdditions ecosystem: chat and gag management for CS 1.6, a Pawn plugin plus a PHP/MySQL web panel.
 - <img src="assets/book-01.svg" height="18" alt="" /> My CS 1.6 server-setup guide (VDS + LinuxGSM) has 18 stars and counting.
 - <img src="assets/analytics-01.svg" height="18" alt="" /> I capture my own HTTPS traffic with mitmproxy and take the flows apart in SQLite.
 - <img src="assets/brain-circuit.svg" height="18" alt="" /> Somewhere in between I run a self-hosted LLM proxy; one of my upstream issues made the maintainer's roadmap.
-
-## 🗂️ Top projects
-
-| Project | Stars | Forks |
-| --- | :---: | :---: |
-| [**cs-1.6-server-installation-on-vds-using-lgsm**](https://github.com/Nord1cWarr1or/cs-1.6-server-installation-on-vds-using-lgsm) — full guide: CS 1.6 dedicated server on a VDS (Debian + LinuxGSM) | ![](https://img.shields.io/github/stars/Nord1cWarr1or/cs-1.6-server-installation-on-vds-using-lgsm?style=flat-square&labelColor=1A1B26&color=24283B) | ![](https://img.shields.io/github/forks/Nord1cWarr1or/cs-1.6-server-installation-on-vds-using-lgsm?style=flat-square&labelColor=1A1B26&color=24283B) |
-| [**AWP-Limiter**](https://github.com/Nord1cWarr1or/AWP-Limiter) — AWP limiter plugin for CS 1.6 (AMX Mod X, Pawn) | ![](https://img.shields.io/github/stars/Nord1cWarr1or/AWP-Limiter?style=flat-square&labelColor=1A1B26&color=24283B) | ![](https://img.shields.io/github/forks/Nord1cWarr1or/AWP-Limiter?style=flat-square&labelColor=1A1B26&color=24283B) |
-| [**player-preferences**](https://github.com/Nord1cWarr1or/player-preferences) — manage and store player preferences: hats, music and other settings | ![](https://img.shields.io/github/stars/Nord1cWarr1or/player-preferences?style=flat-square&labelColor=1A1B26&color=24283B) | ![](https://img.shields.io/github/forks/Nord1cWarr1or/player-preferences?style=flat-square&labelColor=1A1B26&color=24283B) |
-| [**NextClientServerApi**](https://github.com/Nord1cWarr1or/NextClientServerApi) — AMX Mod X plugin providing an API to interact with CS 1.6 NextClient (C++) | ![](https://img.shields.io/github/stars/Nord1cWarr1or/NextClientServerApi?style=flat-square&labelColor=1A1B26&color=24283B) | ![](https://img.shields.io/github/forks/Nord1cWarr1or/NextClientServerApi?style=flat-square&labelColor=1A1B26&color=24283B) |
-| [**ChatAdditions_Gaglist**](https://github.com/Nord1cWarr1or/ChatAdditions_Gaglist) — web panel for ChatAdditions_AMXX, a list of gags (PHP) | ![](https://img.shields.io/github/stars/Nord1cWarr1or/ChatAdditions_Gaglist?style=flat-square&labelColor=1A1B26&color=24283B) | ![](https://img.shields.io/github/forks/Nord1cWarr1or/ChatAdditions_Gaglist?style=flat-square&labelColor=1A1B26&color=24283B) |
 
 ## 📊 GitHub stats
 
@@ -70,44 +52,6 @@
 <img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" alt="productive time" />
 
 <img height="165" src="https://nord-streak-stats.vercel.app/?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-## ⚡ Recent activity
-
-<details>
-<summary><b>Latest pulls, issues and merges</b> — updated daily</summary>
-<br />
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1203](https://github.com/rehlds/ReHLDS/pull/1203) in [rehlds/ReHLDS](https://github.com/rehlds/ReHLDS)
-2. 🎉 Merged PR [#1193](https://github.com/rehlds/ReGameDLL_CS/pull/1193) in [rehlds/ReGameDLL_CS](https://github.com/rehlds/ReGameDLL_CS)
-3. 🎉 Merged PR [#1202](https://github.com/rehlds/ReHLDS/pull/1202) in [rehlds/ReHLDS](https://github.com/rehlds/ReHLDS)
-4. 🎉 Merged PR [#398](https://github.com/rehlds/ReAPI/pull/398) in [rehlds/ReAPI](https://github.com/rehlds/ReAPI)
-5. 🔒 Closed issue [#1192](https://github.com/rehlds/ReGameDLL_CS/issues/1192) in [rehlds/ReGameDLL_CS](https://github.com/rehlds/ReGameDLL_CS)
-<!--END_SECTION:activity-->
-
-</details>
-
-## 🎮 Playground
-
-<div align="center">
-
-![Daily Badge](https://badge.ava.kim/badge.svg?tz=Europe/Moscow&style=flat-square)
-
-<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=Nord1cWarr1or&theme=mac" alt="terminal neofetch" width="70%" />
-
-<img src="output/bonsai-growth.gif" width="320" alt="my git-bonsai, grown from commits" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nord1cWarr1or/Nord1cWarr1or/main/dist/pet.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nord1cWarr1or/Nord1cWarr1or/main/dist/pet-light.svg" />
-  <img alt="my github pet" src="https://raw.githubusercontent.com/Nord1cWarr1or/Nord1cWarr1or/main/dist/pet.svg" width="75%" />
-</picture>
-
-<img src="https://raw.githubusercontent.com/Nord1cWarr1or/Nord1cWarr1or/gravity-output/gravity.svg" width="420" alt="contribution gravity" />
-
-<img src="https://raw.githubusercontent.com/Nord1cWarr1or/Nord1cWarr1or/main/chart-year.svg" alt="commit candles" width="100%" />
 
 </div>
 
