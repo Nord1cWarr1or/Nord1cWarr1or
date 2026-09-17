@@ -16,14 +16,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake (dark theme: matrix)
+      - name: Generate dark snake (matrix theme)
         uses: dahan8473/snake-and-commits@v1
         with:
           github_user: ${{ github.repository_owner }}
           output: dist/github-contribution-grid-snake-dark.svg
           theme: matrix
 
-      - name: Generate snake (light theme: green)
+      - name: Generate light snake (green theme)
         uses: dahan8473/snake-and-commits@v1
         with:
           github_user: ${{ github.repository_owner }}
