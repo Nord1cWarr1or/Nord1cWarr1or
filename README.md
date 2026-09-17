@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=Nord1cWarr1or&desc=Game%20server%20engineer%20%C2%B7%20AI-augmented%20developer&descSize=17&descAlignY=68&color=0:7aa2f7,100:bb9af7&fontColor=c0caf5&stroke=7aa2f7&strokeWidth=1" alt="header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=GoldSrc+%2F+CS+1.6+ecosystem+enthusiast;AMX+Mod+X+plugin+developer;C%2B%2B+contributor+to+ReHLDS+%26+friends;Linux+enthusiast+%C2%B7+Arch%2C+btw;Shipping+faster+with+AI+in+the+loop" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=GoldSrc+%2F+CS+1.6+ecosystem+enthusiast;AMX+Mod+X+plugin+developer;C%2B%2B+contributor+to+ReHLDS+%26+friends;Linux+enthusiast;AI+drafts%2C+I+ship" alt="Typing SVG" />
 </a>
 
 [![profile views](https://komarev.com/ghpvc/?username=Nord1cWarr1or&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)](https://github.com/Nord1cWarr1or)
@@ -12,12 +12,12 @@
 
 ## ⚡ About me
 
-- <img src="assets/gamepad-01.svg" height="18" alt="" /> **AMX Mod X plugin developer** — Pawn, ReAPI, server-side modding for CS 1.6
-- <img src="assets/c-plus-plus.svg" height="18" alt="" /> **C++ contributor** to open-source GoldSrc ecosystem projects (**ReHLDS** & friends)
-- <img src="assets/php.svg" height="18" alt="" /> Built a **PHP web panel** for server administration
-- <img src="assets/bash.svg" height="18" alt="" /> Bash tooling & workflow automation for a smoother daily drive (Arch, btw)
-- <img src="assets/bug-01.svg" height="18" alt="" /> **Linux enthusiast** — recently started filing upstream bug reports
-- <img src="assets/ai-brain-02.svg" height="18" alt="" /> **AI-augmented workflow** — I architect, review and ship; LLMs are my force multiplier
+- <img src="assets/gamepad-01.svg" height="18" alt="" /> **AMX Mod X plugin developer.** Pawn, ReAPI, server-side modding for CS 1.6.
+- <img src="assets/c-plus-plus.svg" height="18" alt="" /> C++ contributor to the GoldSrc ecosystem (ReHLDS & friends).
+- <img src="assets/php.svg" height="18" alt="" /> Built a PHP web panel for server administration.
+- <img src="assets/bash.svg" height="18" alt="" /> Bash tooling and workflow automation for a smoother daily drive (Arch, btw).
+- <img src="assets/bug-01.svg" height="18" alt="" /> **Linux enthusiast**: lately I've been filing upstream bug reports.
+- <img src="assets/ai-brain-02.svg" height="18" alt="" /> The workflow is AI-assisted: I write the plan, the model drafts the code, and nothing ships until I've reviewed every line.
 
 ## 🛠️ Tech arsenal
 
@@ -38,10 +38,10 @@
 
 ## 🎲 Fun facts
 
-- <img src="assets/bubble-chat.svg" height="18" alt="" /> Maintainer of the **ChatAdditions** ecosystem — chat & gag management for CS 1.6: Pawn plugin + PHP/MySQL web panel
-- <img src="assets/book-01.svg" height="18" alt="" /> Wrote a **CS 1.6 dedicated-server setup guide** (VDS + LinuxGSM) — 18 ⭐ and counting
-- <img src="assets/analytics-01.svg" height="18" alt="" /> Dissects own HTTP(S) traffic with **mitmproxy** + SQLite — self-hosted forensics
-- <img src="assets/brain-circuit.svg" height="18" alt="" /> Tinkers with a self-hosted **LLM proxy** — one accepted upstream issue shaped its roadmap
+- <img src="assets/bubble-chat.svg" height="18" alt="" /> I maintain the ChatAdditions ecosystem: chat and gag management for CS 1.6, a Pawn plugin plus a PHP/MySQL web panel.
+- <img src="assets/book-01.svg" height="18" alt="" /> My CS 1.6 server-setup guide (VDS + LinuxGSM) has 18 stars and counting.
+- <img src="assets/analytics-01.svg" height="18" alt="" /> I capture my own HTTPS traffic with mitmproxy and take the flows apart in SQLite.
+- <img src="assets/brain-circuit.svg" height="18" alt="" /> Somewhere in between I run a self-hosted LLM proxy; one of my upstream issues made the maintainer's roadmap.
 
 ## 📊 GitHub stats
 
