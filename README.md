@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=190&text=Nord1cWarr1or&desc=Game%20server%20engineer%20%C2%B7%20AI-augmented%20developer&descSize=17&descAlignY=68&color=0:7aa2f7,100:bb9af7&fontColor=c0caf5&stroke=7aa2f7&strokeWidth=1" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=190&text=Nord1cWarr1or&desc=Game%20server%20engineer%20%C2%B7%20AI-augmented%20developer&descSize=17&descAlignY=68&color=0:7aa2f7%2C100:bb9af7&fontColor=c0caf5&stroke=7aa2f7&strokeWidth=1" />
   <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=Nord1cWarr1or&desc=Game%20server%20engineer%20%C2%B7%20AI-augmented%20developer&descSize=17&descAlignY=68&color=0:7aa2f7,100:bb9af7&fontColor=1a1b26&stroke=1a1b26&strokeWidth=1" alt="header" width="100%" />
 </picture>
 
