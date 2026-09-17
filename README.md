@@ -36,6 +36,13 @@
 
 </div>
 
+## 🎲 Fun facts
+
+- <img src="assets/bubble-chat.svg" height="18" alt="" /> Maintainer of the **ChatAdditions** ecosystem — chat & gag management for CS 1.6: Pawn plugin + PHP/MySQL web panel
+- <img src="assets/book-01.svg" height="18" alt="" /> Wrote a **CS 1.6 dedicated-server setup guide** (VDS + LinuxGSM) — 18 ⭐ and counting
+- <img src="assets/analytics-01.svg" height="18" alt="" /> Dissects own HTTP(S) traffic with **mitmproxy** + SQLite — self-hosted forensics
+- <img src="assets/brain-circuit.svg" height="18" alt="" /> Tinkers with a self-hosted **LLM proxy** — one accepted upstream issue shaped its roadmap
+
 ## 📊 GitHub stats
 
 <div align="center">
