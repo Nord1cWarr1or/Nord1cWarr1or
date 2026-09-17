@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -16,19 +18,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate dark snake (matrix theme)
+      - name: Generate dark snake (matrix, self-playing)
         uses: dahan8473/snake-and-commits@v1
         with:
           github_user: ${{ github.repository_owner }}
           output: dist/github-contribution-grid-snake-dark.svg
           theme: matrix
 
-      - name: Generate light snake (green theme)
-        uses: dahan8473/snake-and-commits@v1
+      - name: Generate light snake (GitHub light palette)
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user: ${{ github.repository_owner }}
-          output: dist/github-contribution-grid-snake.svg
-          theme: green
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
