@@ -1,4 +1,4 @@
-# re-trigger: first run raced with concurrent main commits
+# re-trigger (2): earlier runs lost git-push races to concurrent workflows
 name: bonsai
 
 on:
