@@ -54,14 +54,6 @@
 
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-achievements.vercel.app/?username=Nord1cWarr1or" alt="achievements" width="100%" />
-
-</div>
-
 ## 🐍 Commit snake
 
 <div align="center">
