@@ -8,7 +8,16 @@
 
 [![profile views](https://komarev.com/ghpvc/?username=Nord1cWarr1or&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)](https://github.com/Nord1cWarr1or)
 
+---
+<br>
+<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/profile-details?username=Nord1cWarr1or&theme=tokyonight" alt="profile details" />
+<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/repos-per-language?username=Nord1cWarr1or&theme=tokyonight" alt="repos per language" />
+<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" alt="productive time" />
+
+<img height="165" src="https://nord-streak-stats.vercel.app/?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
+
+<br>
 
 ## ⚡ About me
 
@@ -33,25 +42,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1A1B26)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B26)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1A1B26)
-
-</div>
-
-## 🎲 Facts about me
-
-- <img src="assets/bubble-chat.svg" height="18" alt="" /> I maintain the ChatAdditions ecosystem: chat and gag management for CS 1.6, a Pawn plugin plus a PHP/MySQL web panel.
-- <img src="assets/book-01.svg" height="18" alt="" /> My CS 1.6 server-setup guide (VDS + LinuxGSM) has 18 stars and counting.
-- <img src="assets/analytics-01.svg" height="18" alt="" /> I capture my own HTTPS traffic with mitmproxy and take the flows apart in SQLite.
-- <img src="assets/brain-circuit.svg" height="18" alt="" /> Somewhere in between I run a self-hosted LLM proxy; one of my upstream issues made the maintainer's roadmap.
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/profile-details?username=Nord1cWarr1or&theme=tokyonight" alt="profile details" />
-<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/repos-per-language?username=Nord1cWarr1or&theme=tokyonight" alt="repos per language" />
-<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" alt="productive time" />
-
-<img height="165" src="https://nord-streak-stats.vercel.app/?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
