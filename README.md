@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=Nord1cWarr1or&desc=Game%20server%20engineer%20%C2%B7%20AI-augmented%20developer&descSize=17&descAlignY=68&color=0:7aa2f7,100:bb9af7&fontColor=c0caf5&stroke=7aa2f7&strokeWidth=1" alt="header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=GoldSrc+%2F+CS+1.6+ecosystem+enthusiast;AMX+Mod+X+plugin+developer;C%2B%2B+contributor+to+ReHLDS+%26+friends;Arch+user+%C2%B7+bash+tinkerer;Shipping+faster+with+AI+in+the+loop" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=GoldSrc+%2F+CS+1.6+ecosystem+enthusiast;AMX+Mod+X+plugin+developer;C%2B%2B+contributor+to+ReHLDS+%26+friends;Linux+enthusiast+%C2%B7+Arch%2C+btw;Shipping+faster+with+AI+in+the+loop" alt="Typing SVG" />
 </a>
 
 [![profile views](https://komarev.com/ghpvc/?username=Nord1cWarr1or&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)](https://github.com/Nord1cWarr1or)
@@ -12,11 +12,12 @@
 
 ## ⚡ About me
 
-- 🔧 **AMX Mod X plugin developer** — Pawn, ReAPI, server-side modding for CS 1.6
-- 🎯 **C++ contributor** to open-source GoldSrc ecosystem projects (**ReHLDS** & friends)
-- 🌐 Built a **PHP web panel** for server administration
-- 🐚 Bash tooling & workflow automation for a smoother daily drive (Arch, btw)
-- 🤖 **AI-augmented workflow** — I architect, review and ship; LLMs are my force multiplier
+- <img src="assets/gamepad-01.svg" height="18" alt="" /> **AMX Mod X plugin developer** — Pawn, ReAPI, server-side modding for CS 1.6
+- <img src="assets/c-plus-plus.svg" height="18" alt="" /> **C++ contributor** to open-source GoldSrc ecosystem projects (**ReHLDS** & friends)
+- <img src="assets/php.svg" height="18" alt="" /> Built a **PHP web panel** for server administration
+- <img src="assets/bash.svg" height="18" alt="" /> Bash tooling & workflow automation for a smoother daily drive (Arch, btw)
+- <img src="assets/bug-01.svg" height="18" alt="" /> **Linux enthusiast** — recently started filing upstream bug reports
+- <img src="assets/ai-brain-02.svg" height="18" alt="" /> **AI-augmented workflow** — I architect, review and ship; LLMs are my force multiplier
 
 ## 🛠️ Tech arsenal
 
@@ -27,6 +28,7 @@
 ![ReAPI](https://img.shields.io/badge/ReAPI-BB9AF7?style=for-the-badge&labelColor=1A1B26)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1A1B26)
 <br />
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=1A1B26)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1A1B26)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1A1B26)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B26)
@@ -43,14 +45,6 @@
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" alt="productive time" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-## 📈 Contribution calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7aa2f7/Nord1cWarr1or" alt="contribution calendar" width="100%" />
 
 </div>
 
