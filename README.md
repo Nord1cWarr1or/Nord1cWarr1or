@@ -47,11 +47,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nord1cWarr1or&theme=tokyonight" alt="profile details" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nord1cWarr1or&theme=tokyonight" alt="repos per language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" alt="productive time" />
+<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/profile-details?username=Nord1cWarr1or&theme=tokyonight" alt="profile details" />
+<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/repos-per-language?username=Nord1cWarr1or&theme=tokyonight" alt="repos per language" />
+<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" alt="productive time" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://nord-streak-stats.vercel.app/?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
