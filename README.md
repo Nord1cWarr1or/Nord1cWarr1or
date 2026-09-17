@@ -38,26 +38,27 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nord1cWarr1or&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nord1cWarr1or&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nord1cWarr1or&theme=tokyonight" alt="profile details" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nord1cWarr1or&theme=tokyonight" alt="repos per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" alt="productive time" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
-## 🏆 Trophies
+## 📈 Contribution calendar
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nord1cWarr1or&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" width="100%" />
+<img src="https://ghchart.rshah.org/7aa2f7/Nord1cWarr1or" alt="contribution calendar" width="100%" />
 
 </div>
 
-## 📈 Contribution graph
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nord1cWarr1or&bg_color=1A1B26&color=C0CAF5&line=7AA2F7&point=BB9AF7&area=true&area_color=24283B&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
+<img src="https://github-profile-achievements.vercel.app/?username=Nord1cWarr1or" alt="achievements" width="100%" />
 
 </div>
 
