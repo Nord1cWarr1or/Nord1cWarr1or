@@ -36,7 +36,7 @@
 
 </div>
 
-## 🎲 Fun facts
+## 🎲 Facts about me
 
 - <img src="assets/bubble-chat.svg" height="18" alt="" /> I maintain the ChatAdditions ecosystem: chat and gag management for CS 1.6, a Pawn plugin plus a PHP/MySQL web panel.
 - <img src="assets/book-01.svg" height="18" alt="" /> My CS 1.6 server-setup guide (VDS + LinuxGSM) has 18 stars and counting.
