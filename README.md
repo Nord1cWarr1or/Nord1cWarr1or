@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=Nord1cWarr1or&desc=Game%20server%20engineer%20%C2%B7%20AI-augmented%20developer&descSize=17&descAlignY=68&color=0:7aa2f7,100:bb9af7&fontColor=c0caf5&stroke=7aa2f7&strokeWidth=1" alt="header" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=190&text=Nord1cWarr1or&desc=Game%20server%20engineer%20%C2%B7%20AI-augmented%20developer&descSize=17&descAlignY=68&color=0:7aa2f7,100:bb9af7&fontColor=c0caf5&stroke=7aa2f7&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=Nord1cWarr1or&desc=Game%20server%20engineer%20%C2%B7%20AI-augmented%20developer&descSize=17&descAlignY=68&color=0:7aa2f7,100:bb9af7&fontColor=1a1b26&stroke=1a1b26&strokeWidth=1" alt="header" width="100%" />
+</picture>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=GoldSrc+%2F+CS+1.6+ecosystem+enthusiast;AMX+Mod+X+plugin+developer;C%2B%2B+contributor+to+ReHLDS+%26+friends;Linux+enthusiast;AI+drafts%2C+I+ship" alt="Typing SVG" />
@@ -8,11 +11,23 @@
 
 [![profile views](https://komarev.com/ghpvc/?username=Nord1cWarr1or&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)](https://github.com/Nord1cWarr1or)
 
-<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/profile-details?username=Nord1cWarr1or&theme=tokyonight" alt="profile details" />
-<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/repos-per-language?username=Nord1cWarr1or&theme=tokyonight" alt="repos per language" />
-<img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" alt="productive time" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://summary-cards-sigma.vercel.app/api/cards/profile-details?username=Nord1cWarr1or&theme=tokyonight" />
+  <img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/profile-details?username=Nord1cWarr1or&theme=default" alt="profile details" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://summary-cards-sigma.vercel.app/api/cards/repos-per-language?username=Nord1cWarr1or&theme=tokyonight" />
+  <img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/repos-per-language?username=Nord1cWarr1or&theme=default" alt="repos per language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://summary-cards-sigma.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" />
+  <img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=default&utcOffset=3" alt="productive time" />
+</picture>
 
-<img height="165" src="https://nord-streak-stats.vercel.app/?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nord-streak-stats.vercel.app/?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://nord-streak-stats.vercel.app/?user=Nord1cWarr1or&theme=default&hide_border=true" alt="GitHub streak" />
+</picture>
 </div>
 
 <br>
