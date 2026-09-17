@@ -8,8 +8,6 @@
 
 [![profile views](https://komarev.com/ghpvc/?username=Nord1cWarr1or&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)](https://github.com/Nord1cWarr1or)
 
----
-<br>
 <img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/profile-details?username=Nord1cWarr1or&theme=tokyonight" alt="profile details" />
 <img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/repos-per-language?username=Nord1cWarr1or&theme=tokyonight" alt="repos per language" />
 <img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" alt="productive time" />
@@ -24,6 +22,7 @@
 - <img src="assets/gamepad-01.svg" height="18" alt="" /> **AMX Mod X plugin developer.** Pawn, ReAPI, server-side modding for CS 1.6.
 - <img src="assets/c-plus-plus.svg" height="18" alt="" /> C++ contributor to the GoldSrc ecosystem (ReHLDS & friends).
 - <img src="assets/php.svg" height="18" alt="" /> Built a PHP web panel for server administration.
+- <img src="assets/book-01.svg" height="18" alt="" /> **Wrote a CS 1.6 server-setup guide** (VDS + LinuxGSM), 18 ⭐ and counting.
 - <img src="assets/bash.svg" height="18" alt="" /> Bash tooling and workflow automation for a smoother daily drive (Arch, btw).
 - <img src="assets/bug-01.svg" height="18" alt="" /> **Linux enthusiast**: lately I've been filing upstream bug reports.
 - <img src="assets/ai-brain-02.svg" height="18" alt="" /> The workflow is AI-assisted: I write the plan, the model drafts the code, and nothing ships until I've reviewed every line.
