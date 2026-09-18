@@ -38,8 +38,8 @@
 - <img src="assets/c-plus-plus.svg" height="18" alt="" /> C++ contributor to the GoldSrc ecosystem (ReHLDS & friends).
 - <img src="assets/php.svg" height="18" alt="" /> Built a PHP web panel for server administration.
 - <img src="assets/book-01.svg" height="18" alt="" /> **Wrote a CS 1.6 server-setup guide** (VDS + LinuxGSM), 18 ⭐ and counting.
-- <img src="assets/bash.svg" height="18" alt="" /> Bash tooling and workflow automation for a smoother daily drive (Arch, btw).
-- <img src="assets/bug-01.svg" height="18" alt="" /> **Linux enthusiast**: lately I've been filing upstream bug reports.
+- <img src="assets/bash.svg" height="18" alt="" /> Bash tooling and workflow automation for a smoother daily drive (CachyOS + KDE Wayland, btw).
+- <img src="assets/bug-01.svg" height="18" alt="" /> **Linux enthusiast**: I root-cause bugs upstream (Kernel Bugzilla, WirePlumber, KDE).
 - <img src="assets/ai-brain-02.svg" height="18" alt="" /> The workflow is AI-assisted: I write the plan, the model drafts the code, and nothing ships until I've reviewed every line.
 
 ## 🛠️ Tech arsenal
