@@ -12,21 +12,21 @@
 [![profile views](https://komarev.com/ghpvc/?username=Nord1cWarr1or&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)](https://github.com/Nord1cWarr1or)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://summary-cards-sigma.vercel.app/api/cards/profile-details?username=Nord1cWarr1or&theme=tokyonight" />
-  <img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/profile-details?username=Nord1cWarr1or&theme=default" alt="profile details" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/tokyonight/profile-details.svg" />
+  <img height="170" src="profile-summary-card-output/default/profile-details.svg" alt="profile details" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://summary-cards-sigma.vercel.app/api/cards/repos-per-language?username=Nord1cWarr1or&theme=tokyonight" />
-  <img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/repos-per-language?username=Nord1cWarr1or&theme=default" alt="repos per language" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/tokyonight/repos-per-language.svg" />
+  <img height="170" src="profile-summary-card-output/default/repos-per-language.svg" alt="repos per language" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://summary-cards-sigma.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" />
-  <img height="170" src="https://summary-cards-sigma.vercel.app/api/cards/productive-time?username=Nord1cWarr1or&theme=default&utcOffset=3" alt="productive time" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/tokyonight/productive-time.svg" />
+  <img height="170" src="profile-summary-card-output/default/productive-time.svg" alt="productive time" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nord-streak-stats.vercel.app/?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://nord-streak-stats.vercel.app/?user=Nord1cWarr1or&theme=default&hide_border=true" alt="GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile/streak-tokyonight.svg" />
+  <img height="165" src="profile/streak-default.svg" alt="GitHub streak" />
 </picture>
 </div>
 
