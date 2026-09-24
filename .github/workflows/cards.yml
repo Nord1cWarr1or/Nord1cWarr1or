@@ -18,8 +18,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Summary cards (tokyonight, dark)
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -67,7 +65,19 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "actions@users.noreply.github.com"
-          git add cards profile
-          git diff --cached --quiet || git commit -m "cards: daily refresh"
-          git pull --rebase origin main
-          git push
+          git status --short || echo "::warning::status failed"
+          git add cards profile || echo "::warning::add failed"
+          if git diff --cached --quiet; then
+            echo "no card changes"
+          else
+            git commit -m "cards: daily refresh" || echo "::warning::commit failed"
+          fi
+          if out=$(git push origin main 2>&1); then
+            echo "push ok: $out"
+          else
+            echo "::warning::push: $out"
+            git pull --rebase origin main 2>&1 | tail -2 || true
+            if ! out=$(git push origin main 2>&1); then
+              echo "::warning::push retry failed: $out"
+            fi
+          fi
