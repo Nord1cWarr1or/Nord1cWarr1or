@@ -12,16 +12,16 @@
 [![profile views](https://komarev.com/ghpvc/?username=Nord1cWarr1or&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)](https://github.com/Nord1cWarr1or)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/tokyonight/profile-details.svg" />
-  <img height="170" src="profile-summary-card-output/default/profile-details.svg" alt="profile details" />
+  <source media="(prefers-color-scheme: dark)" srcset="cards/tokyonight/0-profile-details.svg" />
+  <img height="170" src="cards/default/0-profile-details.svg" alt="profile details" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/tokyonight/repos-per-language.svg" />
-  <img height="170" src="profile-summary-card-output/default/repos-per-language.svg" alt="repos per language" />
+  <source media="(prefers-color-scheme: dark)" srcset="cards/tokyonight/1-repos-per-language.svg" />
+  <img height="170" src="cards/default/1-repos-per-language.svg" alt="repos per language" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/tokyonight/productive-time.svg" />
-  <img height="170" src="profile-summary-card-output/default/productive-time.svg" alt="productive time" />
+  <source media="(prefers-color-scheme: dark)" srcset="cards/tokyonight/4-productive-time.svg" />
+  <img height="170" src="cards/default/4-productive-time.svg" alt="productive time" />
 </picture>
 
 <picture>
