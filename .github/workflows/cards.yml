@@ -1,4 +1,3 @@
-# re-trigger note: themes are staged to cards/<theme>/ because each action run wipes the output dir
 name: Generate stat cards
 
 on:
@@ -19,6 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Summary cards (tokyonight, dark)
         uses: vn7n24fzkq/github-profile-summary-cards@release
