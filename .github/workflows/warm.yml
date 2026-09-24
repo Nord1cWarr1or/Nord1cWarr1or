@@ -1,0 +1,36 @@
+name: keep-warm
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/warm.yml"
+
+permissions: {}
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping self-hosted stat cards (keep Vercel edge cache hot)
+        run: |
+          base="https://summary-cards-sigma.vercel.app/api/cards"
+          streak="https://nord-streak-stats.vercel.app"
+          for url in \
+            "$base/profile-details?username=Nord1cWarr1or&theme=tokyonight" \
+            "$base/profile-details?username=Nord1cWarr1or&theme=default" \
+            "$base/repos-per-language?username=Nord1cWarr1or&theme=tokyonight" \
+            "$base/repos-per-language?username=Nord1cWarr1or&theme=default" \
+            "$base/productive-time?username=Nord1cWarr1or&theme=tokyonight&utcOffset=3" \
+            "$base/productive-time?username=Nord1cWarr1or&theme=default&utcOffset=3" \
+            "$streak/?user=Nord1cWarr1or&theme=tokyonight&hide_border=true" \
+            "$streak/?user=Nord1cWarr1or&theme=default&hide_border=true" \
+          ; do
+            code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 "$url" || echo ERR)
+            echo "$code $url"
+            [ "$code" = "200" ] || echo "::warning::$code $url"
+          done
